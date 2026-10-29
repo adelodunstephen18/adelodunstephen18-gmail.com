@@ -1,0 +1,7 @@
+{
+  "name": "Adelod Game World",
+  "description": "Buy, sell, trade-in, and professional repairs for PlayStation, Xbox, Nintendo consoles and gaming accessories in Ibadan, Oyo State, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
